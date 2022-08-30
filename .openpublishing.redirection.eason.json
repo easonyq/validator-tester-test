@@ -1,0 +1,19 @@
+{
+  "redirections": [
+    {
+      "source_path_from_root": "/docs/file1-not-exist.md",
+      "redirect_url": "/validator-tester/file1",
+      "redirect_document_id": false
+    },
+    {
+      "source_path_from_root": "/docs/file1-not-exist2.md",
+      "redirect_url": "/validator-tester/file12",
+      "redirect_document_id": false
+    },
+    {
+      "source_path_from_root": "/docs/file1-not-exist3.md",
+      "redirect_url": "/validator-tester/file13",
+      "redirect_document_id": false
+    }
+  ]
+}
